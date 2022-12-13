@@ -7,4 +7,5 @@ public class assign3{
         float a = 6.5f;
         System.out.println(a);
     }
+    
 }        
