@@ -6,5 +6,7 @@ public class assign2{
         System.out.println("Enter the value:");
         int a = 65;
         System.out.println(a);
+    
+    
     }
 }        
