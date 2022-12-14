@@ -9,5 +9,8 @@ public class assign5{
         System.out.println("Enter the second value :");
         int b = 65;
         System.out.println(b);
+   
     }
-}        
+} 
+
+
