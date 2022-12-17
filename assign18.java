@@ -10,5 +10,6 @@ public class assign18{
         System.out.println("number of times first integer can be divided by the second int :"+c);
         int r= a%b;
         System.out.println("it will left :"+r);
-    }    
+    }
+    
 }
