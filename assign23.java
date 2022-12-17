@@ -10,4 +10,5 @@ public class assign23{
         else
         System.out.println("the number is odd");
     }
+    
 }        
