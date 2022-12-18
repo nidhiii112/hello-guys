@@ -9,5 +9,4 @@ public class assign14{
         float avg = (a+b)/2f;
         System.out.println("average"+avg);
     }
-    
-}        
+    }        
