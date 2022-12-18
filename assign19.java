@@ -11,4 +11,5 @@ public class assign19{
         System.out.println("simple interest"+si);
 
     }
+    
 }        
