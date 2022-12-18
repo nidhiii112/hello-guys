@@ -9,5 +9,7 @@ public class assign16{
         int c = (a*a*a);
         System.out.println("square:"+b);
         System.out.println("cube:"+c);
+
     }
+    
 }        
