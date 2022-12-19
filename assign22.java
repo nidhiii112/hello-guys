@@ -13,5 +13,6 @@ public class assign22{
         System.out.println("pass");
         else
         System.out.println("fail");
-    }
+    } 
+    
 }        
