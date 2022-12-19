@@ -17,4 +17,5 @@ public class assign20{
         float mod = a%b;
         System.out.println(a+"%"+b+"="+mod);
     }
+    
 }        
