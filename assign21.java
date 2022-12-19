@@ -10,5 +10,6 @@ public class assign21{
         else
         System.out.println("you are minor");
     }
+    
 }        
         
