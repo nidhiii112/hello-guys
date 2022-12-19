@@ -14,5 +14,4 @@ public class assign22{
         else
         System.out.println("fail");
     } 
-    
 }        
