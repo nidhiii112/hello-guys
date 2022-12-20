@@ -12,4 +12,5 @@ public class assign29{
         else 
         System.out.println("Wrong code");
     }
+    
 }        
