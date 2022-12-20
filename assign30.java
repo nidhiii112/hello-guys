@@ -10,4 +10,5 @@ public class assign30{
         else 
         System.out.println("Wrong code");
     }
+    
 }        
