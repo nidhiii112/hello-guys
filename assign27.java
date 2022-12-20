@@ -12,4 +12,5 @@ public class assign27{
         else 
         System.out.println("zero integer");
     }
+    
 }        
