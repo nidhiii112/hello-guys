@@ -12,4 +12,5 @@ public class assign28{
         else 
         System.out.println("Wrong code intered");
     }
+    
 }        
