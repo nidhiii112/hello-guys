@@ -11,4 +11,5 @@ public class assign31{
         else 
         System.out.println("Not eligible for scholarship");
     }
+    
 }        
