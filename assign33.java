@@ -26,5 +26,7 @@ public class assign33{
             comisn = (sale*10)/100;
             System.out.println("the commision is :"+comisn);
         }
+        
     }
+    
 }        
