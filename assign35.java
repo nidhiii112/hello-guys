@@ -11,5 +11,6 @@ public class assign35{
         System.out.println("the character is small alphabet");
         else 
         System.out.println("the character is digit or any other char");
+ 
     }
 }
