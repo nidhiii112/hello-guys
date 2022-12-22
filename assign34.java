@@ -7,4 +7,5 @@ public class assign34{
         char ch = obj.nextLine().charAt(0);
         System.out.println("character"+(int)ch);
     }
+    
 }
