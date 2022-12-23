@@ -9,4 +9,5 @@ public class assign36{
         str = (a>=18)?"adult":"minor";
         System.out.println(str);
     }
+    
 }
