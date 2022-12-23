@@ -9,4 +9,5 @@ public class assign37{
         str = (i%2==0)?"even":"odd";
         System.out.println(str);
     }
+    
 }
