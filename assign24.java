@@ -14,7 +14,6 @@ public class assign24{
         {
             double square = a*a;
             System.out.println("square of"+a+"is"+square);
-        }
-        
+        }     
     }
 }       
