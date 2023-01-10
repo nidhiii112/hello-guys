@@ -8,5 +8,4 @@ public class assign13{
         int c = a+b;
         System.out.println(a+"+"+b+"="+c);
     }
-    
 }  
