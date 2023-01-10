@@ -16,4 +16,5 @@ public class assign24{
             System.out.println("square of"+a+"is"+square);
         }     
     }
+    
 }       
