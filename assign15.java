@@ -11,4 +11,5 @@ public class assign15{
       System.out.println("sum"+c);
       System.out.println("average"+d);
     }
-    }        
+    
+  }        
