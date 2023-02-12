@@ -7,5 +7,5 @@ public class assign9{
         float a= 8/8+7%2-3*2f;
         System.out.println(a);
     }
-    
+   
 }        
