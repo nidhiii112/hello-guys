@@ -10,4 +10,4 @@ public class assign38{
         str = (sale>2500)?"(sale*5)/100":"(sale*7)/100";
         System.out.println(str);
     }
-}
+} 
