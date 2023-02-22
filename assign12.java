@@ -11,3 +11,4 @@ public class assign12
         System.out.println("sum = "+a+"+"+b+"="+c);
     }
 }   
+ 
