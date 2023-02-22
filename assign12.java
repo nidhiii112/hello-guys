@@ -10,5 +10,5 @@ public class assign12
         int c = a+b;
         System.out.println("sum = "+a+"+"+b+"="+c);
     }
-}   
+}    
  
