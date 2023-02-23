@@ -14,3 +14,4 @@ public class assign6{
         System.out.println(c); 
     }
 }        
+ 
