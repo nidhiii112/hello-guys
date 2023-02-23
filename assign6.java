@@ -7,7 +7,7 @@ public class assign6{
         int a = 65;
         System.out.println(a);
         System.out.println("Enter the float value:");
-        float b = 6.5f;
+        float b = 6.5f; 
         System.out.println(b);
         System.out.println("Enter the char:");
         char c = 'A';
