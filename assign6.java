@@ -11,6 +11,6 @@ public class assign6{
         System.out.println(b);
         System.out.println("Enter the char:");
         char c = 'A';
-        System.out.println(c);
+        System.out.println(c); 
     }
 }        
