@@ -10,7 +10,7 @@ public class assign6{
         float b = 6.5f; 
         System.out.println(b);
         System.out.println("Enter the char:");
-        char c = 'A';
+        char c = 'A'; 
         System.out.println(c); 
     }
 }        
