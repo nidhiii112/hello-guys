@@ -5,11 +5,11 @@ public class assign1
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);  
-        System.out.println("enter your name :"); 
+        System.out.println("Enter your name :"); 
         String name = input.next();
-        System.out.println("enter your course :");
+        System.out.println("Enter your course :");
         int course = input.nextInt();
-        System.out.println("enter the notes :");
+        System.out.println("Enter the notes :");
         int notes = input.nextInt();
         System.out.println("name"+name);
         System.out.println("BCA"+course);
