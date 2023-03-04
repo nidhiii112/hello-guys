@@ -5,7 +5,7 @@ public class assign10{
         Scanner input = new Scanner(System.in); 
         System.out.println("find the value :"); 
         float a= 5%(5*2)-3+6/2f;  
-        System.out.println(a);    
+        System.out.println(a);     
     } 
  }         
    
