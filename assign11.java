@@ -1,7 +1,9 @@
 //question(11)
 import java.util.Scanner;
-public class assign11{
-    public static void main(String[] args) {
+public class assign11
+{
+    public static void main(String[] args) 
+    {
         Scanner input = new Scanner(System.in);
         System.out.println("enter the 1st value:");
         int b = input.nextInt();
