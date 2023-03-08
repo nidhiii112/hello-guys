@@ -1,7 +1,9 @@
 //question28
 import java.util.Scanner;
-public class assign28{
-    public static void main(String[] args) {
+public class assign28
+{
+    public static void main(String[] args) 
+    {
         Scanner obj = new Scanner(System.in);
         System.out.println("Enter the se code :");
         char code = obj.nextLine().charAt(0);
