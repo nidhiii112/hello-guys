@@ -8,7 +8,7 @@ public class assign11
         System.out.println("enter the 1st value:");
         int b = input.nextInt();
         System.out.println("enter the 2nd value");
-        int c = input.nextInt();
+        int c = input.nextInt(); 
         int a = b+c;
         System.out.println("a: "+a);     
     }    
