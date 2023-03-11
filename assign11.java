@@ -9,7 +9,7 @@ public class assign11
         int b = input.nextInt();
         System.out.println("enter the 2nd value");
         int c = input.nextInt(); 
-        int a = b+c;
+        int a = b+c; 
         System.out.println("a: "+a);       
     }    
 }      
