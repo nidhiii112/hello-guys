@@ -11,7 +11,7 @@ public class assign1
         int course = input.nextInt();
         System.out.println("Enter the notes :");
         int notes = input.nextInt();
-        System.out.println("name"+name); 
+        System.out.println("name"+name);  
         System.out.println("BCA"+course); 
     }
 }
