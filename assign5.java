@@ -6,10 +6,10 @@ public class assign5
    {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the first value:");
-        int a = 45;
+        int a = 21;
         System.out.println(a);
         System.out.println("Enter the second value :");
-        int b = 65;
+        int b = 22;
         System.out.println(b);
     
     }
