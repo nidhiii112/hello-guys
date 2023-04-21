@@ -14,4 +14,4 @@ public class assign1
         System.out.println("name"+name);  
         System.out.println("BCA"+course);  
     }           
-}  
+}   
