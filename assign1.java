@@ -1,4 +1,4 @@
-//Question(1)
+//Question(1).0.
 import java.util.Scanner; 
 public class assign1
 {
