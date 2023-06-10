@@ -1,4 +1,5 @@
-//Question(1)...
+//Question(1)
+
 
 
 import java.util.Scanner; 
