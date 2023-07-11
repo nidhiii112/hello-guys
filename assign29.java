@@ -1,4 +1,4 @@
-//question29..
+//question29
 import java.util.Scanner;
 
 import javax.lang.model.util.ElementScanner14;
