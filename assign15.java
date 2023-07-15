@@ -1,4 +1,5 @@
-//question(15)...
+//question(15)
+
 import java.util.Scanner;
 public class assign15{
     public static void main(String[] args) {
