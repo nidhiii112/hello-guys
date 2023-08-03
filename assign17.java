@@ -1,4 +1,4 @@
-//question(17) 
+.9uhjhh //question(17) ..
 
 import java.util.Scanner;
 public class assign17{
