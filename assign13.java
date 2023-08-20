@@ -1,6 +1,5 @@
 //question(13)
 
-
 import java.util.Scanner;
 public class assign13
 {
