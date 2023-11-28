@@ -1,4 +1,5 @@
 
+
 //question(18) ...
 import java.util.Scanner;
 public class assign18{
