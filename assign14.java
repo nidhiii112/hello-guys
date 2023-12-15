@@ -1,3 +1,4 @@
+
 //question(14) ..
 
 import java.util.Scanner;
