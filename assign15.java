@@ -1,4 +1,3 @@
-
 //question(15) ..
 
 import java.util.Scanner;
