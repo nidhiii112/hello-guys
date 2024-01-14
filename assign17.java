@@ -1,5 +1,6 @@
  //question(17)  
 
+
 import java.util.Scanner;
 public class assign17{
     public static void main(String[] args) {
