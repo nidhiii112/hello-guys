@@ -1,6 +1,6 @@
  //Question(1) ..
  
-import java.util.Scanner;   
+import java.util.Scanner;    
 public class assign1
 {  
     public static void main(String[] args)   
