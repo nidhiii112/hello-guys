@@ -11,4 +11,4 @@ public class assign10
         float a= 5%(5*2)-3+6/2f;   
         System.out.println(a);       
     }    
- }            
+ }        
