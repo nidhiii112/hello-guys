@@ -12,6 +12,3 @@ public class assign10
         System.out.println(a);       
     }    
  }            
-   
- 
- 
