@@ -8,7 +8,7 @@ public class assign1
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your name :");   
         String name = input.next();
-        System.out.println("Enter your course :"); 
+        System.out.println("Enter your course :");  
         int course = input.nextInt();
         System.out.println("Enter the notes :");
         int notes = input.nextInt();  
